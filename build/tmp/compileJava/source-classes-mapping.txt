@@ -1,0 +1,8 @@
+com/config/springconfigserverclient/Number.java
+ com.config.springconfigserverclient.Number
+com/config/springconfigserverclient/SpringConfigServerClientApplication.java
+ com.config.springconfigserverclient.SpringConfigServerClientApplication
+com/config/springconfigserverclient/MuleBean.java
+ com.config.springconfigserverclient.MuleBean
+com/config/springconfigserverclient/MessageRestController.java
+ com.config.springconfigserverclient.MessageRestController
